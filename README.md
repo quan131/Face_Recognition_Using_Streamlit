@@ -33,8 +33,8 @@ This is a face recognition application built using Python, [Face-Recognition API
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/datct00/Face-recognition-app-using-Streamlit.git
-cd Face-recognition-app-using-Streamlit
+git clone https://github.com/quan131/Face_Recognition_Using_Streamlit.git
+cd Face_Recognition_Using_Streamlit
 ```
 
 2. Run the app
