@@ -16,6 +16,9 @@ This is a face recognition application built using Python, [Face-Recognition API
 ├───pages
 │   ├───1_🔧_Updating.py
 │   └───2_💾_Database
+├───results
+│   │───result.JPG
+│   │───...
 ├───Tracking.py
 │───utils.py
 ├───config.yaml 
